@@ -38,9 +38,17 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ### Overview
+- The current quarter GDP is N22.11 trillion following a 11.17% increase compared to the previous quarter.
+- asdf
+![Overview dashboard](https://github.com/oluwatobiwilliams/demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
+
 ### GDP by Sector Analysis
 
+![GDP by sector](https://github.com/oluwatobiwilliams/demo-GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_by_sector.png)
+
 ## Recommendations
-
+- Recommendation 1
+- Recommendation 2
+  
 ## Download
-
+<a href = "https://github.com/oluwatobiwilliams/demo-GDP-Analysis-in-Nigeria/raw/main/images/Adekunle_Rihannat_GDP_Project.pbix"> Download the Power BI file </a>
